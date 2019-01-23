@@ -1,0 +1,13 @@
+{
+  "token": "Token token=57a3134a05aa215f4ddf60148010b3d2",
+  "user_agent": "MyCoolApp (aex0735070005@gmail.com)",
+  "subscription_id": "113000",
+  "url": "https://www.tickspot.com/",
+  "version": "/api/v2/",
+  "contentType": "application/json",
+  "authUrl": "https://www.tickspot.com/api/v2/roles.json",
+  "statusCodes": {
+    "200": true,
+    "201": true
+  }
+}
